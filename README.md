@@ -1,6 +1,6 @@
 # FRC 10015 Rookie Team 2024-2025 Season Code
 
-Welcome to the FRC 10015 Rookie Team's 2024-2025 season code repository! This repository contains the source code for our robot, including all software for driving, autonomous modes, and sensor integrations.
+Welcome to the FRC 10015 Rookie Team's 2025-2026 season code repository! This repository contains the source code for our robot, including all software for driving, autonomous modes, and sensor integrations.
 
 ## Robot Specifications
 
